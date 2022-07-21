@@ -94,13 +94,13 @@ If input is number, it will get stored. The return value of ``sub_401E3E`` will 
 
 After performing all operations, final input is compared with fixed value. With the help of this fixed value, we will know which operations we need to give. This continues for every input we give. MD5 and SHA gets updated according to each input we give and final output is compared with ``3d5f443a57358deb84191dec1bfc65fe``.
 
-First input: ``7+6-3/2``
-Second input: ``1+4+8``
-Third input: ``3``
-Fourth input: ``9*9``
-Fifth input: ``8+4*9``
-Sixth input: ``5/6``
-Seventh input: ``3*0``
+- First input: ``7+6-3/2``
+- Second input: ``1+4+8``
+- Third input: ``3``
+- Fourth input: ``9*9``
+- Fifth input: ``8+4*9``
+- Sixth input: ``5/6``
+- Seventh input: ``3*0``
 
 
 ### Flag
